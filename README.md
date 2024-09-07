@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/theankushshah" target="blank"><img src="https://img.shields.io/twitter/follow/theankushshah?logo=twitter&style=for-the-badge" alt="theankushshah" /></a> </p>
 
-- 🔭 I’m currently working on [Web Development](https://github.com/TheAnkushshah/Govt.ModelSanskritiSeniorSecondarySchool)
+- 🔭 I’m works on wide range of fields [Web Development, App Development, Front-end & Back-end many more stuff...]
 
-- 🌱 I’m currently learning **Back-end Development & It's Releated Technologies**
+- 🌱 I’m currently spreading my hands more in **Back-end Development & It's Releated Technologies**
 
 - 👯 I’m looking to collaborate on **Start-ups Projects**
 
-- 🤝 I’m looking for help with [Back-end Development](https://github.com/TheAnkushshah/Govt.ModelSanskritiSeniorSecondarySchool)
+- 🤝 I’m looking for help with [Back-end Development]
 
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/theankuushshah](https://in.linkedin.com/in/theankuushshah)
+- 👨‍💻 All of my projects are available on [my portfolio](https://ankushshah.vercel.app)
 
-- 📝 I Constantly Post Coding Releated Projects on [https://github.com/TheAnkushshah](https://github.com/TheAnkushshah)
+- 📝 I also constantly post all of my projects on [https://github.com/TheAnkushshah](https://github.com/TheAnkushshah)
 
-- 💬 Ask me about **Html5, CSS3 & Javascript**
+- 💬 Ask me about **Front-end, Back-end, Android, IOS, Web, App, DevOps, AI, ML and some other tech**
 
 - 📫 How to reach me **ankushsahvlogs@gmail.com**
 

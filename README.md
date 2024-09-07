@@ -101,7 +101,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/datagrip/datagrip-original.svg" alt="datagrip" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dataspell/dataspell-original.svg" alt="dataspell" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" alt="denojs" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" alt="denojs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
 <img src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default" alt="django" width="40" height="40"/>
@@ -119,7 +119,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/embeddedc/embeddedc-original.svg" alt="embeddedc" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ember/ember-original.svg" alt="ember" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
 </p>
 

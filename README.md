@@ -190,8 +190,29 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/liquibase/liquibase-original.svg" alt="liquibase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/livewire/livewire-original.svg" alt="livewire" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lodash/lodash-original.svg" alt="lodash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/logstash/logstash-original.svg" alt="logstash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/magento/magento-original.svg" alt="magnento" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/materializecss/materializecss-original.svg" alt="materializecss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/maya/maya-original.svg" alt="maya" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/meteor/meteor-original.svg" alt="meteor" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="microsoftsqlserver" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/minitab/minitab-original.svg" alt="minitab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mithril/mithril-original.svg" alt="mithril" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mocha/mocha-original.svg" alt="mocha" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/moleculer/moleculer-original.svg" alt="moleculer" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" alt="mysql" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theankushshah&" alt="theankushshah" /></p>

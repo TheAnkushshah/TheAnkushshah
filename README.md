@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Ankush shah</h1>
-<h3 align="center">A Passionate Front-end Developer From Gurgoan, Haryana, India</h3>
+<h3 align="center">A Passionate Developer (Just tell me what to) From Gurgoan, Haryana, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theankushshah&label=Profile%20views&color=0e75b6&style=flat" alt="theankushshah" /> </p>

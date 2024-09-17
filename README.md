@@ -271,8 +271,87 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rubymine/rubymine-original.svg" alt="rubymine" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sanity/sanity-original.svg" alt="sanity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scalingo/scalingo-original.svg" alt="scalingo" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sentry/sentry-original.svg" alt="sentry" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/shopware/shopware-original.svg" alt="shopware" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/socketio/socketio-original.svg" alt="socket io" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/solidity/solidity-original.svg" alt="solidity io" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/solidjs/solidjs-original.svg" alt="solidjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/splunk/splunk-original-wordmark.svg" alt="splunk" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql developer" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swiper/swiper-original.svg" alt="swiper" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tauri/tauri-original.svg" alt="tauri" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/titaniumsdk/titaniumsdk-original.svg" alt="titaniumsdk" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/trpc/trpc-original.svg" alt="trpc" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="typescripts" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typo3/typo3-original.svg" alt="typo3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="unifiedmodelinglanguage" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unrealengine/unrealengine-original.svg" alt="unreal engine" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/v8/v8-original.svg" alt="v8" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vala/vala-original.svg" alt="vala" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vault/vault-original.svg" alt="vault" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vertx/vertx-original.svg" alt="vertx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/visualbasic/visualbasic-original.svg" alt="visualbasic" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="vite js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitess/vitess-original.svg" alt="vitess" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuestorefront/vuestorefront-original.svg" alt="vuestorefront" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vyper/vyper-original.svg" alt="vyper" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wasm/wasm-original.svg" alt="wasm" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webflow/webflow-original.svg" alt="webflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/weblate/weblate-original.svg" alt="weblate" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/yii/yii-original.svg" alt="yii" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/yugabytedb/yugabytedb-original.svg" alt="yugabytedb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/yunohost/yunohost-original.svg" alt="yunohost" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theankushshah&" alt="theankushshah" /></p>

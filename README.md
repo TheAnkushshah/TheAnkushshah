@@ -153,7 +153,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/handlebars/handlebars-original.svg" alt="handlebars" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/influxdb-icon-2017x2048-38lz5101.png" alt="influxdb" width="40" height="40"/>
+<img src="https://docs.checkmk.com/latest/images/influxdb-logo.png" alt="influxdb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>

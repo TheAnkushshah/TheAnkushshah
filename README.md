@@ -212,7 +212,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/moleculer/moleculer-original.svg" alt="moleculer" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" alt="mysql" width="40" height="40"/>
+<img src="https://icons-for-free.com/iff/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neo4j/neo4j-original.svg" alt="neon4j" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>

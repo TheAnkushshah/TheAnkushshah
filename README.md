@@ -3,10 +3,6 @@
 <h3 align="center">A Passionate Developer (Just tell me what to) From Gurgoan, Haryana, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theankushshah&label=Profile%20views&color=0e75b6&style=flat" alt="theankushshah" /> </p>
-
-<p align="left"> <a href="https://twitter.com/theankushshah" target="blank"><img src="https://img.shields.io/twitter/follow/theankushshah?logo=twitter&style=for-the-badge" alt="theankushshah" /></a> </p>
-
 - I works on wide range of fields [Web Development, App Development, Front-end & Back-end many more stuff...]
 
 - I’m currently spreading my hands more in **Back-end Development & It's Releated Technologies**

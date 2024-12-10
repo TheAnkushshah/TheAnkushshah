@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Developer (Just tell me what to) From Gurgoan, Haryana, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
-- I works on wide range of fields [Web Development, App Development, Front-end & Back-end many more stuff...]
+- I works on wide range of fields [Web Development, App Development, Front-end & Back-end] many more stuff...
 
 - I’m currently spreading my hands more in **Back-end Development & It's Releated Technologies**
 

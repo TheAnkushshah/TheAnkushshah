@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi,👋 I'm Ankush shah</h1>
+<h1 align="center">Hi, I'm Ankush shah</h1>
 <h3 align="center">A Passionate Developer (Just tell me what to) From Gurgoan, Haryana, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
@@ -7,25 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/theankushshah" target="blank"><img src="https://img.shields.io/twitter/follow/theankushshah?logo=twitter&style=for-the-badge" alt="theankushshah" /></a> </p>
 
-- 🔭 I works on wide range of fields [Web Development, App Development, Front-end & Back-end many more stuff...]
+- I works on wide range of fields [Web Development, App Development, Front-end & Back-end many more stuff...]
 
-- 🌱 I’m currently spreading my hands more in **Back-end Development & It's Releated Technologies**
+- I’m currently spreading my hands more in **Back-end Development & It's Releated Technologies**
 
-- 👯 I’m looking to collaborate on **Start-ups Projects**
+- I’m looking to collaborate on **Start-ups Projects**
 
-- 🤝 I’m looking for help with Back-end Development
+- I’m looking for help with Back-end Development
 
-- 👨‍💻 All of my projects are available on [my portfolio](https://ankushshah.vercel.app)
+- All of my projects are available on [my portfolio](https://ankushshah.vercel.app)
 
-- 📝 I also constantly post all of my projects on [https://github.com/TheAnkushshah](https://github.com/TheAnkushshah)
+- I also constantly post all of my projects on [https://github.com/TheAnkushshah](https://github.com/TheAnkushshah)
 
-- 💬 Ask me about **Front-end, Back-end, Android, IOS, Web, App, DevOps, AI, ML and some other tech**
+- Ask me about **Front-end, Back-end, Android, IOS, Web, App, DevOps, AI, ML and some other tech**
 
-- 📫 How to reach me **ankushsahvlogs@gmail.com**
+- How to reach me **ankushsahvlogs@gmail.com**
 
-- 📄 Know About My Experiences [https://in.linkedin.com/in/theankuushshah](https://in.linkedin.com/in/theankuushshah)
+- Know About My Experiences [https://in.linkedin.com/in/theankuushshah](https://in.linkedin.com/in/theankuushshah)
 
-- ⚡ Fun fact **Coding is Enjoyable**
+- Fun fact **Coding is Enjoyable**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theankushshah" alt="theankushshah" /></a> </p>
 

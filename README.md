@@ -27,11 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/theankushshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theankushshah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theankuushshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theankuushshah" height="30" width="40" /></a>
-<a href="https://fb.com/theankushshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theankushshah" height="30" width="40" /></a>
-<a href="https://instagram.com/theankushshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theankushshah" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theankushshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theankushshah" height="30" width="40" /></a>
+<a href="https://twitter.com/theankushshah" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="theankushshah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theankuushshah" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="theankuushshah" height="30" width="40" /></a>
+<a href="https://fb.com/theankushshah" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Facebook-Logosu.png" alt="theankushshah" height="30" width="40" /></a>
+<a href="https://instagram.com/theankushshah" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/042/148/632/non_2x/instagram-logo-instagram-social-media-icon-free-png.png" alt="theankushshah" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/theankushshah" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/575/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="theankushshah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

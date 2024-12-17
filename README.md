@@ -27,10 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/theankushshah" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" alt="theankushshah" height="40" width="40" padding-left="10"/></a>
+<a href="https://www.youtube.com/c/theankushshah" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" alt="theankushshah" height="40" width="40"/></a>
+  
 <a href="https://instagram.com/theankushshah" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="theankushshah" height="40" width="40" /></a>
+
 <a href="https://twitter.com/theankushshah" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="theankushshah" height="40" width="40" /></a>
+
 <a href="https://fb.com/theankushshah" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="theankushshah" height="40" width="40" /></a>
+
 <a href="https://linkedin.com/in/theankuushshah" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="theankuushshah" height="40" width="40" /></a>
 </p>
 

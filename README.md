@@ -336,7 +336,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/weblate/weblate-original.svg" alt="weblate" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/>
-<img src="https://pngimg.com/d/wordpress_PNG43.png" alt="wordpress" width="40" height="40"/>
+<img src="https://static.vecteezy.com/system/resources/previews/020/336/199/non_2x/wordpress-logo-wordpress-icon-transparent-png-free-vector.jpg" alt="wordpress" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/>

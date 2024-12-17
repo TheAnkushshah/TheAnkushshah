@@ -107,8 +107,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" alt="electron" width="40" height="40"/>
-<img src="https://www.11ty.dev/img/logo-github.svg" alt="eleventy" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/electron-icon-2048x2048-xijhcald.png" alt="electron" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/elm/elm-original.svg" alt="elm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/embeddedc/embeddedc-original.svg" alt="embeddedc" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ember/ember-original.svg" alt="ember" width="40" height="40"/>
@@ -139,8 +138,6 @@
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/gradle-1.png" alt="gradle" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-<img src="https://store.cncf.io/cdn/shop/products/file-_23_763a4d33-aab6-4cb0-b78c-48bcf45c3e46.png?v=1649724286" alt="grpc" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLB5S2Ttdd0hD7Bl6OEmZ9vvIdWDZ5aAWskQ&s" alt="helm" width="40" height="40"/>

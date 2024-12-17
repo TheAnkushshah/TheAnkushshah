@@ -347,8 +347,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theankushshah&" alt="theankushshah" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theankushshah&show_icons=true&locale=en" alt="theankushshah" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theankushshah&show_icons=true&locale=en&layout=compact" alt="theankushshah" /></p>

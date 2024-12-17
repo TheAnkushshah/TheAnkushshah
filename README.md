@@ -40,9 +40,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/adonisjs/adonisjs-original.svg" alt="adonis js" width="40" height="40"/>
-<img src="https://download.logo.wine/logo/Adobe_After_Effects/Adobe_After_Effects-Logo.wine.png" alt="aftereffects" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/round-app-icons-by-ampeross/png/512x512/Ae.png" alt="aftereffects" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/algolia/algolia-original.svg" alt="algolia" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/alpinejs/alpinejs-original.svg" alt="alpine js" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="AWS" width="40" height="40"/>
@@ -73,7 +72,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cakephp/cakephp-original.svg" alt="cakephp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/capacitor/capacitor-original.svg" alt="capacitor" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-circleci-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-2-pack-logos-icons-3031758.png" alt="circleci" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/clion/clion-original.svg" alt="clion" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cloudflare/cloudflare-original.svg" alt="cloudfare" width="40" height="40"/>
@@ -141,11 +139,11 @@
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/gradle-1.png" alt="gradle" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="40"/>
+<img src="https://store.cncf.io/cdn/shop/products/file-_23_763a4d33-aab6-4cb0-b78c-48bcf45c3e46.png?v=1649724286" alt="grpc" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLB5S2Ttdd0hD7Bl6OEmZ9vvIdWDZ5aAWskQ&s" alt="helm" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQf4pF8_FsAXuZnm-8hTVejhAS_3x7dD1vQ&s" alt="handlebars" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
@@ -173,12 +171,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/k3s/k3s-original.svg" alt="k3s" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/karatelabs/karatelabs-original.svg" alt="karatelabs" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:2400/1*bHXcoxe1HeBfsa6Y_tG_4g.png" alt="karatelabs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/karma/karma-original.svg" alt="karma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/knexjs/knexjs-original.svg" alt="knexjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/knockout/knockout-plain-wordmark.svg" alt="knockout" width="40" height="40"/>
+<img src="https://codegeeklearn.com/wp-content/uploads/2023/05/s2prd8.png" alt="knockout" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/krakenjs/krakenjs-original.svg" alt="krakenjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ktor/ktor-original.svg" alt="ktor" width="40" height="40"/>
@@ -192,7 +190,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/logstash/logstash-original.svg" alt="logstash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/magento/magento-original.svg" alt="magnento" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-mariadb-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226022.png?f=webp" alt="mariadb" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCq_MWCbWz5G0veatn-j2VRdj22XJDrYKlQ&s" alt="markdown" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/materializecss/materializecss-original.svg" alt="materializecss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
@@ -207,7 +205,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mocha/mocha-original.svg" alt="mocha" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/moleculer/moleculer-original.svg" alt="moleculer" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>
+<img src="https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/d/AmazonStores/A2EUQ1WTGCTBG2/5b67231f0d31f38553ecdb1b8dee3fc9.w1800.h2222.png" alt="mongoose" width="40" height="40"/>
 <img src="https://icons-for-free.com/iff/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOZuTqPb6LhxyTyEUio8xxNxspa0gm-NncQ&s" alt="neon4j" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>
@@ -225,9 +223,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oauth/oauth-original.svg" alt="oauth" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/objectivec/objectivec-plain.svg" alt="objective c" width="40" height="40"/>
+<img src="https://about.codecov.io/wp-content/uploads/2020/11/objective-c-logo.png" alt="objective c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/2560px-Oracle_Corporation_logo.svg.png" alt="oracle" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/phalcon/phalcon-original.svg" alt="phalcon" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -242,7 +240,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pypi/pypi-original.svg" alt="pypi" width="40" height="40"/>
-<img src="https://seeklogo.com/images/P/pyscript-logo-E2BEA7A375-seeklogo.com.png" alt="pyscript" width="40" height="40"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-py-color-green-icon.png" alt="pyscript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
@@ -282,7 +280,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/solidjs/solidjs-original.svg" alt="solidjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/>
-<img src="https://cdn.springpeople.com/media/Splunk.png" alt="splunk" width="40" height="40"/>
+<img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Symbol.png" alt="splunk" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 <img src="https://static-00.iconduck.com/assets.00/spyder-icon-512x512-0mcgxvrr.png" alt="spyder" width="40" height="40"/>
 <img src="https://storage.googleapis.com/zenn-user-upload/topics/3128cbcdaa.png" alt="sqlalchemy" width="40" height="40"/>

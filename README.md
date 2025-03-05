@@ -41,7 +41,7 @@
 <img src="https://files.softicons.com/download/application-icons/round-app-icons-by-ampeross/png/512x512/Ae.png" alt="aftereffects" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/algolia/algolia-original.svg" alt="algolia" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/alpinejs/alpinejs-original.svg" alt="alpine js" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="AWS" width="40" height="40"/>
+<img src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png" alt="AWS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
 <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" alt="android studio" width="40" height="40"/>
@@ -97,7 +97,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
 <img src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default" alt="django" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s" alt="djangorest" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="docker" width="40" height="40"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dot net core" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dropwizard/dropwizard-original.svg" alt="dropwizard" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/drupal/drupal-original.svg" alt="drupal" width="40" height="40"/>
@@ -160,7 +160,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/json/json-original.svg" alt="json" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="jupyter" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/k3os/k3os-original.svg" alt="k3os" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/k3s/k3s-original.svg" alt="k3s" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
@@ -294,7 +294,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tauri/tauri-original.svg" alt="tauri" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-<img src="https://global.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="threejs" width="40" height="40"/>
+<img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" alt="threejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/titaniumsdk/titaniumsdk-original.svg" alt="titaniumsdk" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/>
